@@ -22,14 +22,13 @@
         {"source": "DOMA", "target": "ROOT", "value": 1},
         {"source": "Analysis Systems", "target": "Scikit-HEP", "value": 1},
         {"source": "Analysis Systems", "target": "PyHEP", "value": 1},
-        {"source": "Analysis Systems", "target": "FAST", "value": 1},
         {"source": "Analysis Systems", "target": "ROOT", "value": 1},
         {"source": "Analysis Systems", "target": "LHADA", "value": 1},
         {"source": "Analysis Systems", "target": "Coffea", "value": 1},
         {"source": "HSF", "target": "PyHEP", "value": 1},
         {"source": "Scikit-HEP", "target": "PyHEP", "value": 1},
-        {"source": "Scikit-HEP", "target": "FAST", "value": 1},
-        {"source": "Scikit-HEP", "target": "Coffea", "value": 1},
+        {"source": "PyHEP", "target": "FAST", "value": 1},
+        {"source": "PyHEP", "target": "Coffea", "value": 1},
         {"source": "Coffea", "target": "Vanderbilt", "value": 1}
     ]
 }
