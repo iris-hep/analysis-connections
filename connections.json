@@ -43,7 +43,7 @@
     {"id": "Nick Smith", "group": 4},
     {"id": "Oliver Gutsche", "group": 4},
     {"id": "Bo Jayatilaka", "group": 4},
-    {"id": "Igor Mandrichenko", "group": 4},
+    {"id": "Igor Mandrichenko", "group": 4}
   ],
   "links": [
     {"source": "Jim Pivarski", "target": "Henry Schreiner", "value": 1, "because": "histograms"},
@@ -120,6 +120,6 @@
     {"source": "Ben Galewsky", "target": "Andrew Melo", "value": 1, "because": "Vanderbilt Cluster"},
     {"source": "Ben Galewsky", "target": "Lindsey Gray", "value": 1, "because": "Vanderbilt Cluster"},
     {"source": "Allison Hall", "target": "Bo Jayatilaka", "value": 1, "because": "supervisor/supervisee"},
-    {"source": "Nick Smith", "target": "Oliver Gutsche", "value": 1, "because": "supervisor/supervisee"},
+    {"source": "Nick Smith", "target": "Oliver Gutsche", "value": 1, "because": "supervisor/supervisee"}
   ]
 }
