@@ -21,7 +21,6 @@
         {"source": "DOMA", "target": "CROSS", "value": 1},
         {"source": "DOMA", "target": "ROOT", "value": 1},
         {"source": "Analysis Systems", "target": "Scikit-HEP", "value": 1},
-        {"source": "Analysis Systems", "target": "PyHEP", "value": 1},
         {"source": "Analysis Systems", "target": "ROOT", "value": 1},
         {"source": "Analysis Systems", "target": "LHADA", "value": 1},
         {"source": "Analysis Systems", "target": "Coffea", "value": 1},
