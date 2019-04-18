@@ -94,7 +94,7 @@ d3.json("connections.json", function(error, graph) {
             })
     }
 
-    var zoom = d3.behavior.zoom().scaleExtent([0.1, 7.0])
+    var zoom = d3.zoom().scaleExtent([0.1, 7.0]);
 
     zoom.on("zoom", function() {
         var stroke = nominal_stroke;
