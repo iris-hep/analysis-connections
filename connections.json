@@ -12,7 +12,7 @@
         {"id": "Vanderbilt", "group": 2},
         {"id": "ROOT", "group": 2},
         {"id": "LHADA", "group": 2},
-        {"id": "Coffea", "group": 3}
+        {"id": "Coffea", "group": 2}
     ],
     "links": [
         {"source": "IRIS-HEP", "target": "Analysis Systems", "value": 1},
