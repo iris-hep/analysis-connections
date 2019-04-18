@@ -12,7 +12,7 @@
         {"id": "Vanderbilt", "group": 2},
         {"id": "ROOT", "group": 2},
         {"id": "LHADA", "group": 2},
-        {"id": "Coffea", "group": 2}
+        {"id": "Coffea", "group": 3}
     ],
     "links": [
         {"source": "IRIS-HEP", "target": "Analysis Systems", "value": 1},
@@ -26,6 +26,7 @@
         {"source": "Analysis Systems", "target": "LHADA", "value": 1},
         {"source": "Analysis Systems", "target": "Coffea", "value": 1},
         {"source": "HSF", "target": "PyHEP", "value": 1},
+        {"source": "HSF", "target": "ROOT", "value": 1},
         {"source": "Scikit-HEP", "target": "PyHEP", "value": 1},
         {"source": "PyHEP", "target": "FAST", "value": 1},
         {"source": "PyHEP", "target": "Coffea", "value": 1},
